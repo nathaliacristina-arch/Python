@@ -9,7 +9,9 @@ Bubble Sort é um algoritmo de ordenação simples que funciona comparando cada 
 Exemplo:
 
 lista = [6, 3, 12, 7] #Se for maior troca de lugar entre si
+
 lista = [3, 6, 12, 7]
+
 lista = [3, 6, 7, 12]
 
 
